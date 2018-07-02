@@ -1,11 +1,4 @@
 # create
 
-### create a new description
+### fist 第一次修改
 
-### Creating a new branch is quick & simple.
-
-### Creating a new  local and origin
-
-### tag打
-
-### 说明文字的tag
