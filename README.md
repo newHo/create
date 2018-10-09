@@ -1,7 +1,3 @@
 # create
 
-### create a new description
-
-### Creating a new branch is quick & simple.
-
-### Creating a new  local and origin
+### 我是新分支里的内容
